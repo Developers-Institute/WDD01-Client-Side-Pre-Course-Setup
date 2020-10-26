@@ -1,6 +1,6 @@
 # WDD01 Client-Side - Orientation Week Pre-Course Setup
 
-Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truly get stuck into building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At any point if you get stuck don't hesitate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more than happy to help you resolve your issue.
+
 
 <details>
 <summary>Day 1 - Getting Started with macOS</summary>
