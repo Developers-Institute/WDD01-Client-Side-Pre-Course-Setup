@@ -8,7 +8,7 @@ Communication will be key to your growth into the workplace and becoming a great
 
 - Slack is a real time messaging tool to help you stay connected to your team (your cohort) and all the support staff at Developers Institute. Use this to ask programming questions, talk about anime, share funny memes or see what others are up to. This is the playground where you will absorb our culture and become a fellow developer.
 - Email is for formal communication between yourself, the outside world and Developers Institute itself. Please check your email regularly as we will be sending you emails on important events, happenings and dates. This is a vital skill to build as it will be an expected skill in your future workplace environment and thus an expected skill in our workplace. Please make sure your Developers Institute email is working including the associated cohort calendar.
-- Your calendar will play a vital roll in organise your day and helping others to know your availability. Your daily meetings and project deadlines will be communicated to you via your calendar and will fall on you to follow and update your calendar on a regular basis. Integration tools for slack exists and is highly recommend: [Google calendar for slack](https://slack.com/app-pages/google-calendar)
+- Your calendar will play a vital roll in organising your day and helping others to know your availability. Your daily meetings and project deadlines will be communicated to you via your calendar and will fall on you to follow and update your calendar on a regular basis. Integration tools for slack exists and is highly recommend: [Google calendar for slack](https://slack.com/app-pages/google-calendar)
 
 <details>
 <summary>Day 1 - Getting Started with macOS</summary>
