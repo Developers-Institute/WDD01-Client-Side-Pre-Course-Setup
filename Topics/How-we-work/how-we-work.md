@@ -1,0 +1,11 @@
+# Welcome to Developers Institute
+
+Welcome to the `Developers Institute`. We will be starting our first semester with the `Client-side course`. But for us to truly get stuck into building great websites we need to prepare and sharpen our tools. So the first week we will be running through a `pre-course setup`. This will entail setting up our hardware (Apple Mac), installing required software and getting to grips with how to use our software tools. At any point if you get stuck don't hesitate to ask in your Cohort `Slack channel` for help. Our instructors and teaching assistance monitors those channels and will be more than happy to help you resolve your issue.
+
+## Effective communication in the workplace
+
+Communication will be key to your growth into the workplace and becoming a great developer. We prefer you to over communicate (tell everybody about how scary your cat is or how often you drink coffee) then to under communicate. At Developers Institute we employ 3 main channels of communication: slack and email.
+
+- Slack is a real time messaging tool to help you stay connected to your team (your cohort) and all the support staff at Developers Institute. Use this to ask programming questions, talk about anime, share funny memes or see what others are up to. This is the playground where you will absorb our culture and become a fellow developer.
+- Email is for formal communication between yourself, the outside world and Developers Institute itself. Please check your email regularly as we will be sending you emails on important events, happenings and dates. This is a vital skill to build as it will be an expected skill in your future workplace environment and thus an expected skill in our workplace. Please make sure your Developers Institute email is working including the associated cohort calendar.
+- Your calendar will play a vital role in organising your day and helping others to know your availability. Your daily meetings and project deadlines will be communicated to you via your calendar and will fall on you to follow and update your calendar regularly. Integration tools for Slack exist and are highly recommended: [Google Calendar for Slack](https://slack.com/app-pages/google-calendar)
