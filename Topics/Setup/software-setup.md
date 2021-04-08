@@ -20,6 +20,15 @@ Install Git by opening your Terminal, and typing the following:
 brew install git
 ```
 
+If after installing Homebrew you start seeing an error on your command line:
+
+```shell
+zsh compinit: insecure directories, run compaudit for list.
+Ignore insecure directories and continue [y] or abort compinit [n]?
+```
+
+Watch the following video on how to fix this issue: [Compaudit fix](https://www.loom.com/share/327e2e694840467eb89271ec25f34aee)
+
 ### Web-browser
 
 Install a modern web browser, preferably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
