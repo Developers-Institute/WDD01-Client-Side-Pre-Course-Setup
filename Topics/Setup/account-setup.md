@@ -13,6 +13,8 @@ You will need a Frontend Masters account from week 2. However it's good to sign 
 1. Go to [Getting Started with JavaScript, v2](https://frontendmasters.com/courses/getting-started-javascript-v2/), and click the red _Get Free Access Now_ button
 2. Create an account, using your `@developersinstitute.co.nz` email address
 
+**Note:** You can get a 6 month free subscription to Frontend Masters from the [GitHub Student Developer Pack](https://education.github.com/pack). We will use free courses as part of the course, but with a premium subscription you have access to hundreds of high quality classes.
+
 ## Loom
 
 We share a lot of videos in Loom. Create a Loom account so you can leave comments and feedback on videos that we share.
